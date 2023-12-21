@@ -1,5 +1,5 @@
 # Andrew Blanchard Week 1Challenge
-Week 1's Challenge Homework 
+## Week 1's Challenge Homework 
 
 
 
@@ -7,6 +7,7 @@ Week 1's Challenge Homework
 
 ## Sources:
 (Best practices for CSS Semantics) https://robdodson.me/posts/css-semantics/
+
 (Alt Text) https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/
 
 (Adding images to a README) https://www.youtube.com/watch?v=nvPOUdz5PL4 
