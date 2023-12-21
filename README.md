@@ -12,3 +12,6 @@ I improved the html and css code using seo practices like providing alt text to 
 (Alt Text) https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/
 
 (Adding images to a README) https://www.youtube.com/watch?v=nvPOUdz5PL4 
+
+## License:
+MIT License 
